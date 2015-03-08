@@ -22,7 +22,7 @@
 * **scorpio** - October 23 – November 21
 * **sagittarius** - November 22 – December 21
 * **capricorn** - December 22 – January 20
-* **aquarius** - January 21 – February 19
+* **aquarius** - January 21 – February 18
 * **pisces** - February 19 – March 20
 
 
